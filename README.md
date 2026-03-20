@@ -1,8 +1,4 @@
-Thank you for sharing the context! Now I understand—your portfolio was **created with Google AI Studio's new vibe coding experience**. Here's the updated README that properly credits AI Studio and reflects the actual development workflow:
 
----
-
-```markdown
 <div align="center">
 <img width="1200" height="475" alt="Portfolio Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
